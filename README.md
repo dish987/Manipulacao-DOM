@@ -4,7 +4,7 @@ Projeto simples pra treinar manipulação de DOM e lógica de validação. A ide
 
 **O que ele faz?**
   - Calcula a média na hora (passou quem tirou 7 ou +).
-  - O botão só clica se você preencher tudo certinho (validação em tempo real).
+  - O botão só clica se você preencher todos os campos (validação em tempo real).
   - Dá pra apagar o card do aluno se você cadastrar errado.
   - Layout limpo e direto.
 
